@@ -5,37 +5,59 @@ class ItemBook extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Card(
-      child: Padding(
-        padding: const EdgeInsets.all(2.0),
-        child: Row(
-          children: [
-            Expanded(
-              flex: 1,
-              child: Image.asset(
-                "images/images.jpg",
-                height: 100,
-                width: 50,
-              ),
-            ),
-            Expanded(
-              flex: 4,
-              child: Column(
-                mainAxisAlignment: MainAxisAlignment.center,
+    Size size = MediaQuery.of(context).size;
+    return Scaffold(
+      backgroundColor: Colors.blue,
+      body: SafeArea(
+        child: Card(
+          child: SizedBox(
+            height: 150,
+            width: size.width,
+            child: Padding(
+              padding: const EdgeInsets.all(5.0),
+              child: Row(
                 crossAxisAlignment: CrossAxisAlignment.start,
-                children: const [
-                  Text(
-                    "Spider-Man: Far from Home",
-                    style: TextStyle(
-                      fontWeight: FontWeight.bold,
+                children: [
+                  Expanded(
+                    flex: 1,
+                    child: Image.asset(
+                      'images/images.jpg',
+                      height: size.height,
+                      width: size.width,
                     ),
                   ),
-                  Text(
-                      "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever."),
+                  Expanded(
+                    flex: 3,
+                    child: Padding(
+                      padding: const EdgeInsets.only(left: 2.0),
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: const [
+                          Text(
+                            "Spider-Man: No Way Home",
+                            style: TextStyle(
+                              fontWeight: FontWeight.bold,
+                              fontSize: 20.0,
+                            ),
+                          ),
+                          Text(
+                            "2021 ‧ Action/Adventure ‧ 2h 28m",
+                            style: TextStyle(
+                              fontSize: 13.0,
+                              height: 1.5,
+                            ),
+                          ),
+                          Text(
+                            "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+                          ),
+                        ],
+                      ),
+                    ),
+                  )
                 ],
               ),
             ),
-          ],
+          ),
         ),
       ),
     );
