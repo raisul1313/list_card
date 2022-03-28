@@ -1,3 +1,4 @@
+import 'package:custom_list_card/book/view/book_list_page.dart';
 import 'package:custom_list_card/book/view/item_book.dart';
 import 'package:flutter/material.dart';
 
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: ItemBook(),
+      home: BookListPage(),
     );
   }
 }

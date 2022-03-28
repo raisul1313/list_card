@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1,
+    "book_name": "Where the Crawdads Sing",
+    "book_author": "Delia Owens",
+    "book_description": "New York Times bestselling worldwide sensation with more than 12 million copies sold, “a painfully beautiful first novel that is at once a murder mystery, a coming-of-age narrative and a celebration of nature”(The New York Times Book Review), now in paperback for the first time.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/513gc-hGy3L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+  },
+  {
+    "id": 2,
+    "book_name": "The Seven Husbands of Evelyn Hugo: A Novel",
+    "book_author": "Taylor Jenkins Reid",
+    "book_description": "Wildly addictive journey of a reclusive Hollywood starlet” (PopSugar) as she reflects on her relentless rise to the top and the risks she took, the loves she lost, and the long-held secrets the public could never imagine.\n",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/418RoZtNZNL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+  },
+  {
+    "id": 3,
+    "book_name": "It Ends with Us: A Novel (1)",
+    "book_author": "Colleen Hoover",
+    "book_description": "In this “brave and heartbreaking novel that digs its claws into you and doesn’t let go, long after you’ve finished it” (Anna Todd, New York Times bestselling author) from the #1 New York Times bestselling author of All Your Perfects, a workaholic with a too-good-to-be-true romance can’t stop thinking about her first love.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51irsfz72HL._SX320_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 4,
+    "book_name": "Run, Rose, Run: A Novel",
+    "book_author": "James Patterson",
+    "book_description": "From America’s most beloved superstar and its greatest storyteller—a thriller about a young singer-songwriter on the rise and on the run, and determined to do whatever it takes to survive.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41hXhURLGkL._SX320_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 5,
+    "book_name": "Verity",
+    "book_author": "Colleen Hoover",
+    "book_description": "Whose truth is the lie? Stay up all night reading the sensational psychological thriller that has readers obsessed, from the #1 New York Times bestselling author of It Ends With Us.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51EaDapchyL._SX332_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 6,
+    "book_name": "It's Not Easy Being a Bunny (Beginner Books(R))",
+    "book_author": "Marilyn Sadler",
+    "book_description": "P.J. Funnybunny doesn't want to be a bunny anymore! In this hilarious Beginner Book, a young bunny explores life with different animal friends. And don’t miss the charming follow-up, It’s Better Being a Bunny, available now! This is a perfect gift for Easter or celebrating bunnies all year round.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51al5c5C52L._SX365_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 7,
+    "book_name": "The Mothers and Daughters of the Bible Speak: Lessons on Faith from Nine Biblical Families",
+    "book_author": "Shannon Bream",
+    "book_description": "“Have faith” is a phrase we hear all the time. But what does it actually look like to live it out? In The Mothers and Daughters of the Bible Speak, Shannon Bream examines the lives of biblical women to see how God’s plans can turn our worlds upside down.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41ksmWhk-rL._SX326_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 8,
+    "book_name": "Where the Crawdads Sing",
+    "book_author": "Delia Owens",
+    "book_description": "For years, rumors of the \"Marsh Girl\" have haunted Barkley Cove, a quiet town on the North Carolina coast. So in late 1969, when handsome Chase Andrews is found dead, the locals immediately suspect Kya Clark, the so-called Marsh Girl. But Kya is not what they say.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51gH2xzBM2L._SX330_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 9,
+    "book_name": "The Flames of Hope (Wings of Fire, Book 15)",
+    "book_author": "Tui T. Sutherland",
+    "book_description": "Luna has always wanted to change the world -- to fix it, to free it -- even if she’s never actually known how. Now that all of dragon - and humankind are in mortal danger, Luna is flying back home to Pantala with a team of dragons on a rescue mission, determined to be brave and useful.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51DrDGNGpLL._SX329_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 10,
+    "book_name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    "book_author": "James Clear",
+    "book_description": "No matter your goals, Atomic Habits offers a proven framework for improving--every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51-uspgqWIL._SX329_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 11,
+    "book_name": "The Storyteller: Tales of Life and Music",
+    "book_author": "Dave Grohl",
+    "book_description": "Having entertained the idea for years, and even offered a few questionable opportunities (\"It's a piece of cake! Just do 4 hours of interviews, find someone else to write it, put your face on the cover, and voila!\") I have decided to write these stories just as I have always done, in my own hand.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/411HQ41zYDL._SX329_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 12,
+    "book_name": "Reminders of Him: A Novel",
+    "book_author": "Colleen Hoover",
+    "book_description": "After serving five years in prison for a tragic mistake, Kenna Rowan returns to the town where it all went wrong, hoping to reunite with her four-year-old daughter. But the bridges Kenna burned are proving impossible to rebuild. Everyone in her daughter’s life is determined to shut Kenna out, no matter how hard she works to prove herself.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41n9-p6-PpL._SX331_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 13,
+    "book_name": "Ugly Love: A Novel",
+    "book_author": "Colleen Hoover",
+    "book_description": "When Tate Collins meets airline pilot Miles Archer, she doesn't think it's love at first sight. They wouldn’t even go so far as to consider themselves friends. The only thing Tate and Miles have in common is an undeniable mutual attraction. Once their desires are out in the open, they realize they have the perfect set-up. He doesn’t want love, she doesn’t have time for love, so that just leaves the sex. Their arrangement could be surprisingly seamless, as long as Tate can stick to the only two rules Miles has for her.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41g9RfNVZBL._SX320_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 14,
+    "book_name": "The Whole Body Reset: Your Weight-Loss Plan for a Flat Belly, Optimum Health & a Body You'll Love at Midlife and Beyond",
+    "book_author": "Stephen Perrine",
+    "book_description": "You don’t have to gain weight as you age. That’s the simple yet revolutionary promise of The Whole Body Reset, which uncovers why standard diet and exercise advice stops working for us as we approach midlife—and reveals how simple changes to the way we eat can halt, and even reverse, age-related weight gain and muscle loss.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41SUyl11bpL._SX329_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 15,
+    "book_name": "Laptop from Hell: Hunter Biden, Big Tech, and the Dirty Secrets the President Tried to Hide",
+    "book_author": "Miranda Devine",
+    "book_description": "When a drug-addled Hunter Biden abandoned his waterlogged computer at a Mac repair shop in Delaware in the spring of 2019, just six days before his father announced his candidacy for the United States presidency, it became the ticking time bomb in the shadows of Joe Biden’s campaign.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/412CrHCSnQL._SX329_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 16,
+    "book_name": "The Paris Apartment: A Novel",
+    "book_author": "Lucy Foley",
+    "book_description": "Jess needs a fresh start. She’s broke and alone, and she’s just left her job under less than ideal circumstances. Her half-brother Ben didn’t sound thrilled when she asked if she could crash with him for a bit, but he didn’t say no, and surely everything will look better from Paris. Only when she shows up – to find a very nice apartment, could Ben really have afforded this? – he’s not there.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51VBVemIo0S._SX329_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 17,
+    "book_name": "Go-To Dinners",
+    "book_author": "Ina Garten",
+    "book_description": "Even Ina Garten, America's most-trusted and beloved home cook, sometimes finds cooking stressful. To make life easy she relies on a repertoire of recipes that she knows will turn out perfectly every time. Cooking night after night during the pandemic inspired her to re-think the way she approached dinner, and the result is this collection of comforting and delicious recipes that you’ll love preparing and serving. You’ll find lots of freeze-ahead, make-ahead, prep-ahead, and simply assembled recipes so you, too, can make dinner a breeze.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41zFito0fdL._SX373_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 18,
+    "book_name": "The Women of the Bible Speak: The Wisdom of 16 Women and Their Lessons for Today",
+    "book_author": "Shannon Bream",
+    "book_description": "People unfamiliar with Scripture often assume that women play a small, secondary role in the Bible. But in fact, they were central figures in numerous Biblical tales. It was Queen Esther’s bravery at a vital point in history which saved her entire people. The Bible contains warriors like Jael, judges like Deborah, and prophets like Miriam. The first person to witness Jesus’ resurrection was Mary Magdalene, who promptly became the first Christian evangelist, eager to share the news which would change the world forever.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51G-WClpkPS._SX325_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 19,
+    "book_name": "Will",
+    "book_author": "Will Smith, Mark Manson",
+    "book_description": "One of the most dynamic and globally recognized entertainment forces of our time opens up fully about his life, in a brave and inspiring book that traces his learning curve to a place where outer success, inner happiness, and human connection are aligned. Along the way, Will tells the story in full of one of the most amazing rides through the worlds of music and film that anyone has ever had.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51f-G2GQwBL._SX327_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 20,
+    "book_name": "The Midnight Library: A Novel",
+    "book_author": "Matt Haig",
+    "book_description": "Somewhere out beyond the edge of the universe there is a library that contains an infinite number of books, each one the story of another reality. One tells the story of your life as it is, along with another book for the other life you could have lived if you had made a different choice at any point in your life. While we all wonder how our lives might have been, what if you had the chance to go to the library and see for yourself? Would any of these other lives truly be better?",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41ATfFjhelL._SX329_BO1,204,203,200_.jpg"
+  }
+]
+
